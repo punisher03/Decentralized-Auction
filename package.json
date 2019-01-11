@@ -1,0 +1,26 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "dependencies": {
+    "ganache-cli": "^6.1.8",
+    "next": "^4.1.4",
+    "next-routes": "^1.4.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "semantic-ui-react": "^0.82.5",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "^0.0.6",
+    "web3": "^1.0.0-beta.26"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
